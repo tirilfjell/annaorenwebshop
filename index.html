@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>Anna Øren</title>
+
+    <!--Custome CSS-->
+    <link rel="stylesheet" href="style.css" />
+    <!--font awesome-->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"
+    />
+    <script src="app.js" defer></script>
+  </head>
+
+  <body>
+    <!--Navbar-->
+    <nav class="navbar">
+      <div class="navbar-center">
+        <span>
+          <div class="menu-wrap">
+            <input type="checkbox" class="toggler" />
+            <div class="hamburger">
+              <div></div>
+            </div>
+            <div class="menu">
+              <div>
+                <div>
+                  <ul>
+                    <li><a href="index.html">Home</a></li>
+                    <li><a href="showcase.html">SHOWCASE</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </span>
+        <img src="./images/annaoren.png" alt="Anna Oren Logo" id="logo" />
+        <div class="cart-btn">
+          <span class="nav-icon">
+            <i class="fas fa-cart-plus"></i>
+          </span>
+          <div class="cart-items">0</div>
+        </div>
+      </div>
+    </nav>
+    <!--End of navbar-->
+
+    <!--Hero-->
+    <header class="hero">
+      <div class="banner">
+        <h1 class="banner-title">
+          <img src="./images/annaoren.png" id="annaorenlogo" />
+        </h1>
+        <h1 class="banner-title">Anna Øren Prints</h1>
+        <button class="banner-btn"><a href="#shopNow">Shop Now</a></button>
+      </div>
+    </header>
+    <!--End of hero-->
+
+    <!--Products-->
+
+    <section class="products">
+      <div class="section-title" id="shopNow">
+        <h2>Prints</h2>
+      </div>
+      <div class="products-center"></div>
+    </section>
+    <!--End of Products-->
+    <!--Cart-->
+    <div class="cart-overlay">
+      <div class="cart">
+        <span class="close-cart">
+          <i class="fas fa-window-close"></i>
+        </span>
+        <h2>Your Cart</h2>
+        <div class="cart-content">
+          <!--Cart item-->
+
+          <!--End of cart item-->
+        </div>
+        <div class="cart-footer">
+          <h3>You total : <span class="cart-total">0</span> NOK</h3>
+          <button class="clear-cart banner-btn">clear cart</button>
+        </div>
+      </div>
+    </div>
+    <!--End of cart-->
+
+    <!--Footer-->
+    <footer>© 2020 Anna Øren Prints ®</footer>
+    <!--End of Footer-->
+  </body>
+</html>

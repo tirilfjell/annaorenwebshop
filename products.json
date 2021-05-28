@@ -1,0 +1,110 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "tenker",
+        "price": 1200,
+        "image": { "fields": { "file": { "url": "./images/1tenker.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "lisa",
+        "price": 1500,
+        "image": { "fields": { "file": { "url": "./images/2lisa.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "balltre",
+        "price": 2000,
+        "image": { "fields": { "file": { "url": "./images/balltre.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "blue",
+        "price": 2200,
+        "image": { "fields": { "file": { "url": "./images/blue.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "gudinne kraft",
+        "price": 1500,
+        "image": {
+          "fields": { "file": { "url": "./images/gudinne-kraft.jpg" } }
+        }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "gulltarer",
+        "price": 3200,
+        "image": { "fields": { "file": { "url": "./images/gulltarer.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "høst",
+        "price": 1300,
+        "image": { "fields": { "file": { "url": "./images/host1.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "killer boots",
+        "price": 1800,
+        "image": { "fields": { "file": { "url": "./images/killerboots.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "9" },
+      "fields": {
+        "title": "nærest",
+        "price": 2300,
+        "image": { "fields": { "file": { "url": "./images/naerest.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "10" },
+      "fields": {
+        "title": "påfugl",
+        "price": 1700,
+        "image": { "fields": { "file": { "url": "./images/pafugl.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "11" },
+      "fields": {
+        "title": "pussy power",
+        "price": 1600,
+        "image": { "fields": { "file": { "url": "./images/pussypower.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "12" },
+      "fields": {
+        "title": "summer time",
+        "price": 2000,
+        "image": { "fields": { "file": { "url": "./images/summertime.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "13" },
+      "fields": {
+        "title": "tegn",
+        "price": 1900,
+        "image": { "fields": { "file": { "url": "./images/tegn.jpg" } } }
+      }
+    }
+  ]
+}
